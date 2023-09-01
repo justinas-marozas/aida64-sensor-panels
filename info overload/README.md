@@ -44,7 +44,7 @@ Launch Aida64. In the top menu, go to File / Preferences, and:
     - ☑ Embedded controller (EC) support (to make water temperatures show [[3]](https://forums.aida64.com/topic/7437-water-in-and-water-out-sensors-asus-crosshair-viii-dark-hero-asus-maximus-xii-apex/?do=findComment&comment=31425))
     - ☑ Embedded controller (EC) bank switching (to make water temperatures show [[3]](https://forums.aida64.com/topic/7437-water-in-and-water-out-sensors-asus-crosshair-viii-dark-hero-asus-maximus-xii-apex/?do=findComment&comment=31425))
 
-You should have a rectangle with some default fields floating around. That is the sensor panel. Right-click it and Select SensorPanel Manager. In the Popup click Import and navigate to the `info-overload.sensorpanel`
+You should have a rectangle with some default fields floating around. That is the sensor panel. Right-click it and Select SensorPanel Manager. In the Popup click Import and navigate to the [info-overload.sensorpanel](./info-overload.sensorpanel) (in this directory).
 
 Install [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) and:
 - **In the install wizzard** make sure that RivaTunner Statistics Server (RTSS) is selected. Game FPS won't work without it
